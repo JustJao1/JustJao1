@@ -2,7 +2,7 @@
 
 Software developer and Software Engineering student (enrolled for 2027 entry) at PUC-Campinas, based in São Carlos, Brazil. I build practical web applications, SaaS products and automation tools, with an interest in backend engineering and product development.
 
-[Portfolio](https://joaovictorsilvadev.vercel.app/) · [Projects](https://github.com/JustJao1?tab=repositories) · [Résumé (PDF)](https://joaovictorsilvadev.vercel.app/Joao_Victor_da_Silva_Resume.pdf)
+[Portfolio](https://justjao1.vercel.app/) · [Projects](https://github.com/JustJao1?tab=repositories) · [Résumé EN](https://justjao1.vercel.app/Joao_Victor_Resume_EN.pdf) · [Currículo PT](https://justjao1.vercel.app/Joao_Victor_Curriculo_PT.pdf)
 
 Contact: [silva.joao.232334@gmail.com](mailto:silva.joao.232334@gmail.com)
 
