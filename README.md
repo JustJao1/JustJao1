@@ -2,7 +2,9 @@
 
 Software developer based in São Carlos, Brazil. I build practical web applications, SaaS products and automation tools, with an interest in backend engineering and product development.
 
-[Portfolio](https://jv-software-portfolio.vercel.app/) · [Projects](https://github.com/JustJao1?tab=repositories)
+[Portfolio](https://jv-software-portfolio.vercel.app/) · [Projects](https://github.com/JustJao1?tab=repositories) · [Résumé (PDF)](https://jv-software-portfolio.vercel.app/Joao_Victor_da_Silva_Resume.pdf)
+
+Contact: [silva.joao.232334@gmail.com](mailto:silva.joao.232334@gmail.com)
 
 ## Selected work
 
