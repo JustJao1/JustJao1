@@ -6,7 +6,7 @@ Software developer based in São Carlos, Brazil. I build practical web applicati
 
 ## Selected work
 
-| Project | Focus | |
+| Project | Focus | Access |
 | --- | --- | --- |
 | [Meu Ritmo](https://github.com/JustJao1/meu-ritmo) | Personal organization SaaS, authentication and payments | [Live product](https://meuritmo.net) |
 | [Meu Ritmo App](https://github.com/JustJao1/meu-ritmo-app) | Android companion and offline tools | [App](https://meuritmo.net/app) |
@@ -16,11 +16,10 @@ Software developer based in São Carlos, Brazil. I build practical web applicati
 | [Pulse Monitor](https://github.com/JustJao1/pulse-monitor) | Service health and incident investigation workspace. | [Demo](https://portfolio-suite-jv.vercel.app/pulse) |
 | [Freight Connect](https://github.com/JustJao1/freight-connect) | Freight marketplace prototype for finding replacement loads and estimating trip profitability. | [Demo](https://portfolio-suite-jv.vercel.app/freight) |
 | [API Studio](https://github.com/JustJao1/api-studio) | HTTP request workbench and response contract testing. | [Demo](https://portfolio-suite-jv.vercel.app/api) |
-
-| [LinkPilot](https://github.com/JustJao1/portfolio/tree/main/projects/linkpilot) | Experimental Windows desktop software for affiliate offer discovery and AI-assisted selection | [Technical overview](https://github.com/JustJao1/portfolio/tree/main/projects/linkpilot) |
+| [LinkPilot](https://github.com/JustJao1/linkpilot) | Experimental Windows desktop application for affiliate offer discovery | [Project overview](https://github.com/JustJao1/linkpilot#readme) |
 
 ## Technical interests
 
 TypeScript, JavaScript, React, Next.js, Python, SQL, REST APIs, authentication, payment integration and automation. I use AI-assisted development as part of my workflow and work to understand, test and maintain the software I publish.
 
-I'm interested in junior software development and automation opportunities. The portfolio demos use fictional data and limited integrations; their individual repositories explain the scope and remaining limitations.
+I'm interested in junior software development and automation opportunities. The portfolio demos use fictional data and limited integrations; their individual repositories explain the scope and remaining limitations. LinkPilot currently has documentation only; the original Go source is not published.
