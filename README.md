@@ -17,6 +17,8 @@ Software developer based in São Carlos, Brazil. I build practical web applicati
 | [Freight Connect](https://github.com/JustJao1/freight-connect) | Freight marketplace prototype for finding replacement loads and estimating trip profitability. | [Demo](https://portfolio-suite-jv.vercel.app/freight) |
 | [API Studio](https://github.com/JustJao1/api-studio) | HTTP request workbench and response contract testing. | [Demo](https://portfolio-suite-jv.vercel.app/api) |
 
+| [LinkPilot](https://github.com/JustJao1/portfolio/tree/main/projects/linkpilot) | Experimental Windows desktop software for affiliate offer discovery and AI-assisted selection | [Technical overview](https://github.com/JustJao1/portfolio/tree/main/projects/linkpilot) |
+
 ## Technical interests
 
 TypeScript, JavaScript, React, Next.js, Python, SQL, REST APIs, authentication, payment integration and automation. I use AI-assisted development as part of my workflow and work to understand, test and maintain the software I publish.
