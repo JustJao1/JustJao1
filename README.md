@@ -12,6 +12,7 @@ Contact: [silva.joao.232334@gmail.com](mailto:silva.joao.232334@gmail.com)
 | --- | --- | --- |
 | [Meu Ritmo](https://github.com/JustJao1/meu-ritmo) | Personal organization SaaS, authentication and payments | [Live product](https://meuritmo.net) |
 | [Meu Ritmo App](https://github.com/JustJao1/meu-ritmo-app) | Android companion and offline tools | [App](https://meuritmo.net/app) |
+| [Traincore](https://github.com/JustJao1/traincore) | Training plans, exercise media and AI-assisted nutrition guidance | [Demo](https://forma-training-three.vercel.app/) |
 | [Imovance](https://github.com/JustJao1/imovance) | Property operations and financial records | [Demo](https://imovel-em-dia-portfolio.vercel.app) |
 | [Doc Intelligence](https://github.com/JustJao1/doc-intelligence) | Document search, field extraction, version comparison and evidence notes. | [Demo](https://portfolio-suite-jv.vercel.app/doc) |
 | [FlowEngine](https://github.com/JustJao1/flow-engine) | Visual workflow editor for branching JSON transformations. | [Demo](https://portfolio-suite-jv.vercel.app/flow) |
